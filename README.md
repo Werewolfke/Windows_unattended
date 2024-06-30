@@ -21,4 +21,4 @@ Then comes the language, they all install in english but have u either manually 
 Ofcourse u can adjust this when windows is booted.
 
 The last part is how it devides the disk... if u have a disk that is allowed to be wiped fully, use 'AutoDiskpart'
-If u have multiple drives, and have other date use the 'OwnDiskPart' version.
+If u have multiple drives, and have other data use the 'OwnDiskPart' version.
